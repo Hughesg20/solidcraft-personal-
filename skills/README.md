@@ -12,6 +12,7 @@ The skills for working on SolidCraft's code (contributing, PRs, tests, layers, U
 
 | Skill | Loads when the agent |
 |---|---|
+| [`solidcraft-mcp`](solidcraft-mcp/SKILL.md) | first connects over MCP: a headless or bridged session, `batch` and `execute`, waiting on long calls, the files it may reach |
 | [`solidcraft-modeling`](solidcraft-modeling/SKILL.md) | builds a new part (enclosure, bracket, plate, flange, …) |
 | [`solidcraft-sheetmetal`](solidcraft-sheetmetal/SKILL.md) | builds or changes a sheet metal part: base, edge and contour flanges, segments, hem, fold, unfold, flat pattern, DXF and bend table, and turns a request in words into flange parameters |
 | [`solidcraft-editing`](solidcraft-editing/SKILL.md) | changes, fixes or extends an existing design |
